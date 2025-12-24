@@ -1,5 +1,7 @@
 # dental-barces-color
-Color My Brace is a lightweight WordPress plugin that lets you easily customize and style braces { }, brackets [ ], and parentheses ( ) in your content with beautiful colors. Perfect for developers, bloggers, and technical writers who want clearer, more readable code and text.
+Color My Brace is a lightweight WordPress plugin designed for dental and orthodontic websites. It allows you to visually customize and color tooth braces in images or illustrations, helping dentists, clinics, and bloggers present orthodontic content in a more engaging and attractive way.
+Perfect for dental professionals, orthodontic clinics, and health bloggers who want clearer, more appealing visual content related to braces.
+
 ## Installation
 
 1. Upload the `color-my-braces` folder to `/wp-content/plugins/`
