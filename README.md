@@ -27,3 +27,5 @@ Simply add the following shortcode to any page or post:
 
 - WordPress 5.0 or higher
 - PHP 7.2 or higher
+
+![Preview](color-braces.jpg)
